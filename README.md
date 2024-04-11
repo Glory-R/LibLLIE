@@ -1,1 +1,1 @@
-# LLIE_Algorithm_platform
+# LibLLIE is a python library for Low-light image enhancement.
