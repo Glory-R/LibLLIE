@@ -114,7 +114,8 @@ def script_ta(img_path,
               directory=results_path,
               clipLimit=None,
               gridSize=None,
-              iteration=None):
+              iteration=None
+              ):
     reader = ReadImage(img_path)
     image = reader.img
 

@@ -23,4 +23,5 @@ class MathImage(AbsMethod, ABC):
         c = 255 / np.log(1 + np.max(self.pipeline))
         log_image = c * (np.log(self.pipeline + 1))
         log_image = np.array(log_image, dtype=np.uint8)
+
         return log_image

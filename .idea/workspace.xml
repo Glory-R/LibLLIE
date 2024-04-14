@@ -5,42 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="955e5c0f-91df-4f88-929b-7c822186562e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/LibLlie3.0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibLlie.egg-info/requires.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibLlie/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibLlie/deelLearning/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibLlie/troditionAlgorithm/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibLlie/troditionAlgorithm/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibLlie/troditionAlgorithm/methods/AbsMethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibLlie/troditionAlgorithm/methods/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibLlie/troditionAlgorithm/methods/heMethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibLlie/troditionAlgorithm/methods/mathMethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibLlie/troditionAlgorithm/processPipeline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibLlie/troditionAlgorithm/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibLlie/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/lib/LibLlie/deelLearning/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/lib/LibLlie/troditionAlgorithm/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/lib/LibLlie/troditionAlgorithm/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/lib/LibLlie/troditionAlgorithm/heCs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/lib/LibLlie/troditionAlgorithm/methods/AbsMethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/lib/LibLlie/troditionAlgorithm/methods/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/lib/LibLlie/troditionAlgorithm/methods/heMethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/lib/LibLlie/troditionAlgorithm/methods/mathMethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/lib/LibLlie/troditionAlgorithm/processPipeline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/lib/LibLlie/troditionAlgorithm/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/lib/LibLlie/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/LibLlie-3.0.tar.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/66.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/commandTA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/scriptTA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LibLlie3.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LibLlie3.0.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibLlie.egg-info/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/LibLlie.egg-info/PKG-INFO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibLlie.egg-info/SOURCES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LibLlie.egg-info/SOURCES.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibLlie/troditionAlgorithm/methods/mathMethod.py" beforeDir="false" afterPath="$PROJECT_DIR$/LibLlie/troditionAlgorithm/methods/mathMethod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibLlie/troditionAlgorithm/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/LibLlie/troditionAlgorithm/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibLlie/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/LibLlie/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/66.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/commandTA.py" beforeDir="false" afterPath="$PROJECT_DIR$/example/commandTA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/scriptTA.py" beforeDir="false" afterPath="$PROJECT_DIR$/example/scriptTA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +56,8 @@
     "Python.utils.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Code/pycode/mtl"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Code/pycode/YOLOv8"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -92,6 +68,7 @@
   <component name="RunManager" selected="Python.scriptTA">
     <configuration name="66" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LibLlie3.0" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -113,6 +90,7 @@
     </configuration>
     <configuration name="77" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LibLlie3.0" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -134,6 +112,7 @@
     </configuration>
     <configuration name="scriptTA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LibLlie3.0" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -155,6 +134,7 @@
     </configuration>
     <configuration name="utils (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LibLlie3.0" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -176,6 +156,7 @@
     </configuration>
     <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LibLlie3.0" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -208,7 +189,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
       </set>
     </attachedChunks>
   </component>

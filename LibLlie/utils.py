@@ -83,8 +83,8 @@ class ConvertFormat:
         if self.data is None:
             raise ValueError("No data stream is input.")
 
-        covertFunction = self.format[self.convertWay]
-        covertFunction()
+        convertFunction = self.format[self.convertWay]
+        convertFunction()
 
         if self.data is None:
             raise ValueError("Cannot convert format of image.")
@@ -98,7 +98,8 @@ class ConvertFormat:
         return self.data
 
     def image_to_bytes(self):
-        _, encoded_img = cv2.imencode(f'.{self.ext}', self.data)[1].tobytes()
+        # _, encoded_img = cv2.imencode(f'.{self.ext}', self.data)[1].tobytes()
+        _, encoded_img = cv2.imencode(f'.{self.ext}', self.data)
         self.data = encoded_img.tobytes()
 
         return self.data
@@ -129,7 +130,6 @@ def save_img(img, name=None, format=None, directory=results_path):
     :param directory: the directory where the image will be saved
     :param name: the name of processed image
     :param format: the format of processed image
-    :return:
     """
     if not os.path.exists(directory):
         os.makedirs(directory)

@@ -5,6 +5,7 @@ Summary: A Python library for low-light image enhancement, integrating various a
 Author: Guangrong Wan
 Author-email: glory947446@gmail.com
 Keywords: low-light enhancement,deep learning,computer vision,low-light conditions,image processing,image enhancement
+License-File: LICENSE
 Requires-Dist: opencv-python==4.9.0.80
 Requires-Dist: numpy==1.24.1
 Requires-Dist: matplotlib==3.7.4

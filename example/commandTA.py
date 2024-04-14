@@ -11,9 +11,11 @@ if __name__ == '__main__':
         --method: name of selected algorithm 
         --cs: name of selected color space
         
-        Refer to LibLlie.troditionAlgorithm.config for details of other parameters 
-        
         example:
         ( if your root directory is `LibLlie`, run following command )
         python example/commandTA.py --img path/to/img --method he --cs hsv --name he_hsv --display True
+        
+        
+        Refer to LibLlie.troditionAlgorithm.config for details of other parameters 
+        
     """
